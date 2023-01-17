@@ -44,11 +44,16 @@ Utilização:
 
 Utilização no Postman:
 
-=> PERSON POST: http://localhost:8080/person-api/person	
+=> PERSON POST: http://localhost:8080/person-api/person
+
 => PERSON GETALL: http://localhost:8080/person-api/person/
+
 => PERSON GETONE: http://localhost:8080/person-api/person/{id}
+
 => PERSON PUT: http://localhost:8080/person-api/person/{id}
+
 => ADDRESS POST: http://localhost:8080/person-api/address
+
 => ADDRESS GETALL: http://localhost:8080/person-api/address/
 
 01_2023_Marcos Bejóra
