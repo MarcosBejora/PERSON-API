@@ -45,11 +45,11 @@ Acesso ao Banco em tempo de execução: http://localhost:8080/h2
 	Senha:(não possui)
 
 Utilização no Postman:
-	PERSON POST: http://localhost:8080/person-api/person
-	PERSON GETALL: http://localhost:8080/person-api/person/
-	PERSON GETONE: http://localhost:8080/person-api/person/{id}
-	PERSON PUT: http://localhost:8080/person-api/person/{id}
-	ADDRESS POST: http://localhost:8080/person-api/address
-	ADDRESS GETALL: http://localhost:8080/person-api/address/
+	PERSON POST: http://localhost:8080/person-api/person/n
+	PERSON GETALL: http://localhost:8080/person-api/person//n
+	PERSON GETONE: http://localhost:8080/person-api/person/{id}/n
+	PERSON PUT: http://localhost:8080/person-api/person/{id}/n
+	ADDRESS POST: http://localhost:8080/person-api/address/n
+	ADDRESS GETALL: http://localhost:8080/person-api/address//n
 
 01_2023_Marcos Bejóra
