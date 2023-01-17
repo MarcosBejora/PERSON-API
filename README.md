@@ -38,9 +38,8 @@ Utilização:
 - Arquivo Jar(executável): https://drive.google.com/file/d/1uluSivXZO5PQC3KqeM8zs_3X2KfavVci/view?usp=share_link
 - Acesso ao Projeto: https: http://github.com/MarcosBejora/PERSON-API
 - Acesso ao Banco em tempo de execução: http://localhost:8080/h2 
-
-	Login:me
-	Senha:(não possui)
+- Login:me
+- Senha:(não possui)
 
 Utilização no Postman:
 
