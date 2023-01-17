@@ -1,0 +1,11 @@
+com\api\personapi\controllers\PersonController.class
+com\api\personapi\dtos\PersonDto.class
+com\api\personapi\PersonApiApplication.class
+com\api\personapi\services\PersonService.class
+com\api\personapi\repositories\PersonRepository.class
+com\api\personapi\services\AddressService.class
+com\api\personapi\controllers\AddressController.class
+com\api\personapi\models\AddressModel.class
+com\api\personapi\dtos\AddressDto.class
+com\api\personapi\models\PersonModel.class
+com\api\personapi\repositories\AddressRepository.class
