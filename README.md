@@ -35,21 +35,19 @@ Funcionalidades:
 	PESSOA/ENDEREÇO (OneToMany)
 
 Utilização:
-Arquivo Jar(executável): https://drive.google.com/file/d/1uluSivXZO5PQC3KqeM8zs_3X2KfavVci/view?usp=share_link
-
-Acesso ao Projeto: https: http://github.com/MarcosBejora/PERSON-API
-
-Acesso ao Banco em tempo de execução: http://localhost:8080/h2 
+- Arquivo Jar(executável): https://drive.google.com/file/d/1uluSivXZO5PQC3KqeM8zs_3X2KfavVci/view?usp=share_link
+- Acesso ao Projeto: https: http://github.com/MarcosBejora/PERSON-API
+- Acesso ao Banco em tempo de execução: http://localhost:8080/h2 
 
 	Login:me
 	Senha:(não possui)
 
 Utilização no Postman:
-	PERSON POST: http://localhost:8080/person-api/person \n
-	PERSON GETALL: http://localhost:8080/person-api/person/ \n
-	PERSON GETONE: http://localhost:8080/person-api/person/{id} \n
-	PERSON PUT: http://localhost:8080/person-api/person/{id} \n
-	ADDRESS POST: http://localhost:8080/person-api/address \n
-	ADDRESS GETALL: http://localhost:8080/person-api/address/ \n
+	- PERSON POST: http://localhost:8080/person-api/person
+	- PERSON GETALL: http://localhost:8080/person-api/person/
+	- PERSON GETONE: http://localhost:8080/person-api/person/{id}
+	- PERSON PUT: http://localhost:8080/person-api/person/{id}
+	- ADDRESS POST: http://localhost:8080/person-api/address
+	- ADDRESS GETALL: http://localhost:8080/person-api/address/
 
 01_2023_Marcos Bejóra
